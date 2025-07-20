@@ -19,6 +19,8 @@ In FY 2016, the OFLC processed over 775,000 employer applications for nearly 1.7
 - Selected the best model based on validation and test metrics
 
 ## Final Model: XGBoost (with Oversampled Data)
+<img width="1185" height="620" alt="image" src="https://github.com/user-attachments/assets/01669445-9977-49cf-bfe8-3a0cff4172cf" />
+
 
 **Test Set Performance:**
 
